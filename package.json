@@ -1,0 +1,22 @@
+{
+  "name": "merosharePuppeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^10.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
